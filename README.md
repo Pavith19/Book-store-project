@@ -62,7 +62,11 @@ mvn spring:boot run
 
 ## 📸 Screenshots
 
-[Add screenshots of your application here]
+<p align="center">
+  <img src="assert/image1.jpg" alt="Screenshot 1" width="45%">
+  <img src="assert/image2.jpg" alt="Screenshot 2" width="45%">
+</p>
+
 
 ## 🌟 Features in Detail
 
