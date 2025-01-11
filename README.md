@@ -18,7 +18,7 @@ A modern web application for managing a digital book store, built with Spring Bo
 
 ### Prerequisites
 
-- Java 11 or higher
+- Java 17 or higher
 - Maven
 - MySQL/PostgreSQL database
 
@@ -93,27 +93,8 @@ mvn spring:boot run
 - **Icons**: Font Awesome
 - **Build Tool**: Maven
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## 👏 Acknowledgments
 
-- Spring Boot Documentation
-- Bootstrap Team
-- Font Awesome
-- All contributors
-
-## 📮 Contact
-
-Your Name - [@yourusername](https://github.com/yourusername) - email@example.com
-
-Project Link: [https://github.com/yourusername/book-store](https://github.com/yourusername/book-store)
