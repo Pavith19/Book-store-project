@@ -20,7 +20,7 @@ A modern web application for managing a digital book store, built with Spring Bo
 
 - Java 17 or higher
 - Maven
-- MySQL/PostgreSQL database
+- MySQL database
 
 ### Installation
 
